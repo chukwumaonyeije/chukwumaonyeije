@@ -4,6 +4,8 @@
 I’m a physician–developer building AI-powered tools that help doctors reclaim time, reduce burnout, and provide safer and more equitable care.  
 My work blends **clinical expertise**, **ethical artificial intelligence**, and **modern software engineering** to create real-world tools for high-risk pregnancy, documentation automation, and medical education.
 
+[![clinicians that code: verified builder](https://cliniciansthatcode.com/badge/verified.svg)](https://cliniciansthatcode.com/directory/#p-chukwuma-onyeije)
+
 ### 🧰 Tech & Tools I Use  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,py,nodejs,firebase,supabase,git,github,linux,azure,vscode" />
