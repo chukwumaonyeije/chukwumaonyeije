@@ -29,11 +29,6 @@ A public laboratory for learning how to build AI agents, tools, memory systems, 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chukwumaonyeije&show_icons=true&theme=tokyonight" height="170" alt="Chukwuma Onyeije's GitHub activity statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwumaonyeije&layout=compact&theme=tokyonight" height="170" alt="Most-used languages across Chukwuma Onyeije's GitHub repositories" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=chukwumaonyeije&theme=tokyonight" alt="Chukwuma Onyeije's GitHub contribution streak" />
 </p>
 
