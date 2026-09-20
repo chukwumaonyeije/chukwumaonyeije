@@ -1,41 +1,49 @@
-# 👋 Hi, I'm Dr. Chukwuma Onyeije  
-### Maternal–Fetal Medicine Specialist • Physician Founder • AI Builder • Creator of CodeCraftMD & DoctorsWhoCode
+# Chukwuma Onyeije, MD
 
-I’m a physician–developer building AI-powered tools that help doctors reclaim time, reduce burnout, and provide safer and more equitable care.  
-My work blends **clinical expertise**, **ethical artificial intelligence**, and **modern software engineering** to create real-world tools for high-risk pregnancy, documentation automation, and medical education.
+### Physician. Developer. Builder.
 
-[![clinicians that code: verified builder](https://cliniciansthatcode.com/badge/verified.svg)](https://cliniciansthatcode.com/directory/#p-chukwuma-onyeije)
+I’m a maternal-fetal medicine physician who builds software, experiments with AI agents, and writes about the changing relationship between physicians and technology.
 
-### 🧰 Tech & Tools I Use  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,py,nodejs,firebase,supabase,git,github,linux,azure,vscode" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chukwumaonyeije&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwumaonyeije&layout=compact&theme=tokyonight" height="170"/>
-</p>
+Medicine is my domain. Software is one of my tools. Better clinical workflows are the objective.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chukwumaonyeije&theme=tokyonight" />
-</p>
-### 🚀 Featured Projects  
+## Start here
 
-- 🔥 **CodeCraftMD.com**  
-  AI-powered billing + clinical documentation tools for physicians  
-  👉 https://codecraftmd.com  
+### [Onyeije.dev — my professional home](https://onyeije.dev)
 
-- 📘 **DoctorsWhoCode.blog**  
-  Teaching doctors how to build, automate, and ship software  
-  👉 https://doctorswhocode.blog  
+The map to my work in medicine, software, AI, writing, and open clinical tools. Learn about my background, explore the projects, and see what I’m working on now.
 
-- 🤰 **GDM Quiz App**  
-  Gamified gestational diabetes education  
-  👉 https://github.com/chukwumaonyeije/gdm-quiz-app  
+**[Explore Onyeije.dev →](https://onyeije.dev)** · [Source code](https://github.com/chukwumaonyeije/onyeije.dev)
 
-- 🤖 **AI Clinical Workflow Pipelines**  
-  Ambient scribe + RAG + coding assistant prototypes  
-### 🛠️ Currently Building
-- 🧠 *PreEclampsiaWatch* — AI risk prediction assistant for pregnancy  
-- 🔊 CodeCraftMD Voice Agent — CPT/ICD automation through voice  
-- 📚 *Faith, Ethics & Code* — ebook for clinician-developers  
-- 🏃 Half-marathon analytics + health tracking integrations
+### [Agentic Builder MD — the public lab](https://agenticbuildermd.com)
+
+A public laboratory for learning how to build AI agents, tools, memory systems, and physician-centered automation. I’m exploring how these systems can support real clinical workflows while keeping people involved in the work.
+
+**[Visit Agentic Builder MD →](https://agenticbuildermd.com)** · [Source code](https://github.com/chukwumaonyeije/agenticbuildermd)
+
+## Across the ecosystem
+
+| Project | What you’ll find |
+| --- | --- |
+| [Doctors Who Code](https://doctorswhocode.blog) | Essays and practical education for physicians exploring software, AI, and clinical workflows. |
+| [OpenMFM](https://openmfm.org) | Open clinical tools and educational resources for maternal-fetal medicine. |
+| [CodeCraftMD](https://codecraftmd.com) | Experiments in physician-built clinical software and workflow engineering. |
+| [GDM Quiz App](https://github.com/chukwumaonyeije/gdm-quiz-app) | Interactive gestational diabetes education. |
+
+## Currently exploring
+
+- AI agents for physician workflows, including tool use and memory
+- Voice interfaces and clinical documentation automation
+- Human-in-the-loop medical AI
+- Open maternal-fetal medicine tools and physician education
+
+[More about what I’m working on →](https://onyeije.dev/now/)
+
+## Tools I work with
+
+TypeScript · JavaScript · Python · Astro · React · Next.js · Node.js · Supabase · Git
+
+[![Clinicians That Code: verified builder](https://cliniciansthatcode.com/badge/verified.svg)](https://cliniciansthatcode.com/directory/#p-chukwuma-onyeije)
+
+## Connect
+
+[Onyeije.dev](https://onyeije.dev) · [LinkedIn](https://www.linkedin.com/in/chukwumaonyeije/) · [Email](mailto:onyeije@gmail.com)
