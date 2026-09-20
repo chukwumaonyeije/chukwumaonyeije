@@ -20,6 +20,23 @@ A public laboratory for learning how to build AI agents, tools, memory systems, 
 
 **[Visit Agentic Builder MD →](https://agenticbuildermd.com)** · [Source code](https://github.com/chukwumaonyeije/agenticbuildermd)
 
+## 🧰 Tech & Tools I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,py,nodejs,firebase,supabase,git,github,linux,azure,vscode" alt="Tools: TypeScript, JavaScript, HTML, CSS, React, Next.js, Python, Node.js, Firebase, Supabase, Git, GitHub, Linux, Azure, and VS Code" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chukwumaonyeije&show_icons=true&theme=tokyonight" height="170" alt="Chukwuma Onyeije's GitHub activity statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwumaonyeije&layout=compact&theme=tokyonight" height="170" alt="Most-used languages across Chukwuma Onyeije's GitHub repositories" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chukwumaonyeije&theme=tokyonight" alt="Chukwuma Onyeije's GitHub contribution streak" />
+</p>
+
 ## Across the ecosystem
 
 | Project | What you’ll find |
@@ -37,10 +54,6 @@ A public laboratory for learning how to build AI agents, tools, memory systems, 
 - Open maternal-fetal medicine tools and physician education
 
 [More about what I’m working on →](https://onyeije.dev/now/)
-
-## Tools I work with
-
-TypeScript · JavaScript · Python · Astro · React · Next.js · Node.js · Supabase · Git
 
 [![Clinicians That Code: verified builder](https://cliniciansthatcode.com/badge/verified.svg)](https://cliniciansthatcode.com/directory/#p-chukwuma-onyeije)
 
